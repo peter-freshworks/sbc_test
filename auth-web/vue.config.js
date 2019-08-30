@@ -4,6 +4,7 @@ module.exports = {
   },
   publicPath: process.env.VUE_APP_PATH,
   transpileDependencies: ['vuex-persist'],
+  
   devServer: {
     // not used
     proxy: {
