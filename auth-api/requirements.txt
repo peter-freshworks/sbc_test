@@ -35,7 +35,7 @@ python-jose==3.0.1
 python-keycloak==0.17.4
 pytz==2019.2
 requests==2.22.0
-rsa==4.0
+rsa==4.1
 six==1.12.0
 urllib3==1.25.3
 -e git://github.com/pwei1018/jaeger-client-python.git@186f14e14758273ed108508c0d388a4f4de5c75b#egg=jaeger-client
