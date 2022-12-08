@@ -12,7 +12,7 @@ Werkzeug==0.15.5
 alembic==1.0.11
 aniso8601==7.0.0
 attrs==19.1.0
-certifi==2019.6.16
+certifi==2022.12.7
 chardet==3.0.4
 ecdsa==0.13.2
 flask-jwt-oidc==0.1.5
